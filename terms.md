@@ -1,12 +1,12 @@
 # Essential Popstar 2 — Purchase terms
 
-Updated October 4, 2026. Published by Fortune Neon, Nigeria.
+Updated October 6, 2026. Published by Fortune Neon, Nigeria.
 
 ## Cash packs
 Cash packs add the displayed amount of fictional game currency to your current career. Currency has no real-world cash value and does not guarantee success in the game. The store displays the price and currency before you confirm payment.
 
 ## Premium
-Premium includes $40K of game cash per subscription month and access to three additional local career save slots while subscribed. Monthly and yearly subscriptions provide the same benefits. Yearly subscriptions are paid upfront for one year; the allowance arrives monthly, not as $480K upfront. Open the Star Store while online to receive allowances due during the current subscription period. Expired subscription periods are not backfilled.
+Premium includes, while subscribed: $14K of game cash added to your weekly income from connections in your current career; access to three additional local career save slots; NPC appearance editing; +25 people for your crew; +10 percentage points to tactic success chance (capped at 96%); and recruitment preparation and execution that take 25% fewer days, rounded up to whole days (travel and scheduled waits are unchanged). Monthly and yearly subscriptions provide the same benefits. Yearly subscriptions are paid upfront for one year. Premium does not deliver lump-sum cash allowances, and expired subscription periods are not backfilled.
 
 All story chapters remain available without Premium. Exclusive cosmetics and future advertising features are not included in the current offer.
 
